@@ -1,5 +1,5 @@
-Notebooks and other materials for EuroPython 2015 tutorial
-==========================================================
+Notebooks and other materials for the EuroPython 2015 tutorial
+==============================================================
 
 Here are my materials for the tutorial on Wed 22, 2015 in EuroPython 2015.
 
