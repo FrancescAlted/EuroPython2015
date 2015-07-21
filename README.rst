@@ -13,9 +13,8 @@ Also, make sure that you have the next Python packages installed:
 * pandas
 * bcolz
 * tables (pytables)
-* MemoryWatcher
 * matplotlib
-* others?
+* ipython_memwatcher
 
 I recommend to use Anaconda to install most of the packages above, and for
 the software that is not in anaconda.org repos, just use pip, e.g.::
